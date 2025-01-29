@@ -1,1 +1,2 @@
-Mi Primer Proyecto
+Sección actualizada desde master
+Sección de funcionalidad añadida desde nueva_funcionalidad
